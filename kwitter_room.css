@@ -1,0 +1,50 @@
+body{
+    background-color: #f9ea8f;
+  background-image: linear-gradient(315deg, #f9ea8f 0%, #aff1da 74%);
+  }
+
+  .header
+{
+	color: white;font-family: 'Yeon Sung';
+	font-size: 45px;
+	letter-spacing: 10px;
+	margin-top: 80px;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.header img
+{
+	width: 80px;
+	margin-left: -15px;
+  border-radius: 30px;
+}
+
+#logout
+{
+	font-size: 20px; 
+	float: right;
+    background-color: #6b0f1a;
+background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%);
+
+}
+
+output{
+    background-color: #2a2a72;
+background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+}
+
+.color_white{
+    font-family: 'Creepster', cursive;
+}
+
+label{
+    font-family: 'Aclonica', sans-serif;
+font-family: 'Creepster', cursive;
+font-family: 'Suez One', serif;
+}
+
+#add{
+    background-color: #4dccc6;
+    background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
